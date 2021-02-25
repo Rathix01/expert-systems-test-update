@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0f5e15a9.chunk.css",
+    "main.js": "./static/js/main.34437952.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.27ce79c1.js",
+    "static/js/2.ff2dc126.chunk.js": "./static/js/2.ff2dc126.chunk.js",
+    "index.html": "./index.html",
+    "precache-manifest.cf2f4c4a50d7e588c456b61932942a7b.js": "./precache-manifest.cf2f4c4a50d7e588c456b61932942a7b.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/2.ff2dc126.chunk.js.LICENSE.txt": "./static/js/2.ff2dc126.chunk.js.LICENSE.txt",
+    "static/js/main.34437952.chunk.js.LICENSE.txt": "./static/js/main.34437952.chunk.js.LICENSE.txt",
+    "static/media/shared.scss": "./static/media/logo_bryntum_bw.3784cc4c.png",
+    "static/media/schedulerpro.stockholm.css": "./static/media/fa-solid-900.ec763292.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27ce79c1.js",
+    "static/js/2.ff2dc126.chunk.js",
+    "static/css/main.0f5e15a9.chunk.css",
+    "static/js/main.34437952.chunk.js"
+  ]
+}

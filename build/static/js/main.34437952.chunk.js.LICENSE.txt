@@ -1,0 +1,17 @@
+/*!
+ *
+ * Bryntum Scheduler Pro 4.0.8 (TRIAL VERSION)
+ *
+ * Copyright(c) 2021 Bryntum AB
+ * https://bryntum.com/contact
+ * https://bryntum.com/license
+ *
+ * Vendor resources
+ *
+ * chronograph by Bryntum AB - https://bryntum.github.io/chronograph
+ * License - http://opensource.org/licenses/MIT (MIT license)
+ *
+ * Later.js by Bunkat - https://bunkat.github.io/later/
+ * License - http://opensource.org/licenses/MIT (MIT license)
+ * 
+ */
